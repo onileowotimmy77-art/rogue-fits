@@ -5,7 +5,7 @@ const products = [
     category: "Sneakers",
     price: 85000,
     description: "A timeless sneaker designed for everyday style.",
-    image: "https://placehold.co/600x700?text=Air+Force+1",
+    image: "https://images.unsplash.com/photo-1712168332222-c1996322f935?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const products = [
     category: "Clothing",
     price: 120000,
     description: "Premium comfort with a clean athletic look.",
-    image: "https://placehold.co/600x700?text=Tech+Fleece",
+    image: "https://images.unsplash.com/photo-1715609104062-12a23da570de?q=80&w=491&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const products = [
     category: "Clothing",
     price: 95000,
     description: "A minimalist hoodie for effortless styling.",
-    image: "https://placehold.co/600x700?text=Essentials+Hoodie",
+    image: "https://plus.unsplash.com/premium_photo-1673356301861-d555ce5972ef?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3Dhttps://placehold.co/600x700?text=Essentials+Hoodie",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const products = [
     category: "Sneakers",
     price: 145000,
     description: "A bold sneaker combining comfort and modern design.",
-    image: "https://placehold.co/600x700?text=New+Balance+9060",
+    image: "https://images.unsplash.com/photo-1628429437853-40ec8ebe3386?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
 ];
 
