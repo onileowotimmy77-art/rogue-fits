@@ -5,7 +5,7 @@ const products = [
     category: "Sneakers",
     price: 85000,
     description: "A timeless sneaker designed for everyday style.",
-    image: "https://images.unsplash.com/photo-1712168332222-c1996322f935?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    image: "https://images.unsplash.com/photo-1656164753657-8ff832063a71?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
   {
     id: 2,
